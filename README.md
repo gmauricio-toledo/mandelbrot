@@ -1,2 +1,5 @@
-# mandelbrot
-Having fun with the Mandelbrot set and Python
+# The Mandelbrot Set
+
+# Recursos adicionales
+
+* https://www.youtube.com/watch?v=a3XDry3EwiU
